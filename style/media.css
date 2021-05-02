@@ -1,0 +1,15 @@
+@media (max-width: 768px){
+
+    .wrap{
+        width: 100%;
+    }
+
+    .nav__list {
+        display: none;
+        order: -1;
+    }
+
+    .nav__button {
+        display: block;
+    }
+}
