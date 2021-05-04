@@ -109,11 +109,11 @@
     .contact__address,
     .contact__tel,
     .contact__mail {
-    margin-bottom: 10px;
+        margin-bottom: 10px;
     }
 
     .footer__content-icons {
-    padding-bottom: 40px;
+        padding-bottom: 40px;
     }
 
     .footer__copyright-text {
@@ -153,11 +153,12 @@
     .contact__address,
     .contact__tel,
     .contact__mail {
-    margin-bottom: 10px;
+        margin-bottom: 10px;
     }
 
     .footer__content-icons {
-    padding-bottom: 42px;
+        width: 30%;
+        padding-bottom: 42px;
     }
 
     .footer__copyright-text {
